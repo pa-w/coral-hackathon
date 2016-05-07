@@ -1,2 +1,2 @@
 # coral-hackathon
-little project for the coral project hackathon.
+All the meat is in the gh-pages branch.
